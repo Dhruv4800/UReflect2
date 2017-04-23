@@ -11,6 +11,7 @@
     <location key="SettingsEditor.0.0.1366.768" x="159" y="17" />
     <location key="#Notifications.0.0.1366.768" x="427" y="88" />
     <location key="CommitChangelistDialog2.0.0.1366.768" x="305" y="64" />
+    <location key="Vcs.Push.Dialog.0.0.1366.768" x="493" y="88" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="0" height="0" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="0" height="0" />
     <size key="GridCell.Tab.0.right.0.0.1366.768" width="0" height="0" />
